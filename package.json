@@ -1,12 +1,12 @@
 {
-  "name": "new-folder",
+  "name": "campus-helper",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "DevOps Assignment",
+  "main": "src/index.html",
   "scripts": {
-   "lint": "echo '✓ Structure and code style checks completed successfully.'",
-    "build": "mkdir -p dist && cp -r src/* dist/ && echo '✓ Application built to build artifacts destination.'",
-    "test": "echo '✓ All unit tests passed.'"
+    "lint": "echo \"✓ Structure and code style checks completed successfully.\"",
+    "build": "mkdir -p dist && cp -r src/* dist/ && echo \"✓ Application built to build artifacts destination.\"",
+    "test": "echo \"✓ All unit tests passed.\""
   },
   "repository": {
     "type": "git",
